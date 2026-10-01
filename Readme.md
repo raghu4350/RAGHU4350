@@ -1,199 +1,115 @@
-<!--
-  Raghuveer Singh — GitHub profile README for raghu4350.
-  This is a single-file profile: every image uses a public HTTPS URL.
-  Paste into README.md in your public raghu4350/raghu4350 repository.
-  Exact project links and LinkedIn can be added at the marked comments.
-  Image services are external and their availability may vary.
--->
+![Raghuveer Singh — AI/ML Developer, Generative AI and Agentic AI](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A0B1120%2C30%3A0284C7%2C68%3A7C3AED%2C100%3A0B1120&text=Raghuveer%20Singh&fontSize=60&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=AI%20-%20ML%20DEVELOPER%20%20%20%20%20GENERATIVE%20AI%20%20%20%20%20AGENTIC%20AI&descSize=15&descAlignY=60)
 
-<div align="center">
+![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=24&pause=1200&duration=2600&color=38BDF8&center=true&vCenter=true&width=1000&height=65&repeat=true&lines=Building%20intelligent%20AI%20systems%3BExploring%20AI%20agents%20and%20real-world%20automation%3BPython.%20Data.%20Models.%20Useful%20applications.%3BLearning%20by%20building.%20Improving%20by%20doing.)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0%3A0d1117%2C45%3A0891b2%2C100%3A7c3aed&text=Raghuveer%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=AI%20%2F%20ML%20%20%7C%20%20Generative%20AI%20%20%7C%20%20Agentic%20AI%20%20%7C%20%20Data%20Science&descSize=16&descAlignY=65&section=header" width="100%" alt="Raghuveer Singh — AI/ML, Generative AI, Agentic AI and Data Science" />
+[![Explore my projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghu4350?tab=repositories)
+[![Email Raghuveer](https://img.shields.io/badge/LET%E2%80%99S_CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghuveer4350@gmail.com)
+![Open to AI/ML opportunities](https://img.shields.io/badge/OPEN_TO_AI%2FML_OPPORTUNITIES-0F766E?style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&duration=3000&pause=1100&color=67E8F9&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building%20intelligent%20AI%20systems%3BExploring%20AI%20agents%20and%20real-world%20automation%3BTurning%20data%20and%20documents%20into%20useful%20answers%3BLearning.%20Building.%20Improving." width="85%" alt="Animated introduction: building intelligent AI systems, AI agents and useful applications" />
+**[About me](#-the-developer-behind-the-code) · [Tech stack](#-my-tech-stack) · [Projects](#-things-im-building) · [Activity](#-my-github-activity) · [Connect](#-lets-connect)**
 
-<h3>Python-first developer. Practical AI projects. Always learning.</h3>
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20%C2%B7%20Data%20Science-0891B2?style=for-the-badge" alt="B.Tech CSE · Data Science" />
-  <img src="https://img.shields.io/badge/GenAI%20%26%20AI%20Agents-7C3AED?style=for-the-badge" alt="GenAI &amp; AI Agents" />
-  <img src="https://img.shields.io/badge/Open%20to%20AI%2FML%20roles-166534?style=for-the-badge" alt="Open to AI/ML roles" />
-</p>
+## 🧑‍💻 The developer behind the code
 
-<p>
-  <a href="mailto:raghuveer4350@gmail.com"><img src="https://img.shields.io/badge/Let%E2%80%99s%20connect-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Let’s connect" /></a>
-  <a href="https://github.com/raghu4350?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
-</p>
+I'm **Raghuveer Singh**, a **B.Tech CSE (Data Science)** student building toward a career in **AI/ML, Generative AI and AI engineering**.
 
-<p>
-  <a href="#about-me">About</a> &nbsp; • &nbsp;
-  <a href="#tech-stack">Tech stack</a> &nbsp; • &nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp; • &nbsp;
-  <a href="#currently-exploring">Exploring</a> &nbsp; • &nbsp;
-  <a href="#github-activity">Activity</a> &nbsp; • &nbsp;
-  <a href="#connect">Connect</a>
-</p>
+I enjoy connecting **Python, data, LLMs and tools** to build practical applications. My current focus is **RAG, AI agents and backend AI systems**.
 
-</div>
+> **Understand the problem. Build the solution. Keep improving.**
 
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0%3A0d1117%2C35%3A22d3ee%2C70%3A8b5cf6%2C100%3A0d1117" width="100%" alt="Cyan and violet section divider" />
-<br />
+![Animated developer working across multiple screens](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
-<a id="about-me"></a>
-01   /   About me
-I'm Raghuveer Singh, a B.Tech Computer Science and Engineering (Data Science) student building toward an AI/ML and Generative AI career.
-I learn through practical projects with Python, RAG, AI agents and backend APIs, with a focus on solving useful business problems.
-class RaghuveerSingh:
-    name = "Raghuveer Singh"
-    github = "raghu4350"
-    languages = ["Python", "SQL"]
-    interests = ["Machine Learning", "Generative AI", "AI Agents"]
-    approach = "Understand → Build → Test → Improve"
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=16&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=50&lines=From%20ideas%20to%20experiments.%20From%20experiments%20to%20useful%20AI." width="90%" alt="Animated line: from ideas to experiments, from experiments to useful AI" />
-</p>
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<a id="tech-stack"></a>
-02   /   Tech stack
-Tools I'm working with and strengthening through projects.
-<table width="100%">
-<tr><td width="26%"><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td></tr>
-<tr><td width="26%"><b>Machine Learning & Data</b></td><td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /></td></tr>
-<tr><td width="26%"><b>Generative AI</b></td><td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square" alt="CrewAI" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="RAG" /></td></tr>
-<tr><td width="26%"><b>Backend & Tools</b></td><td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></td></tr>
-</table>
+## ⚡ My tech stack
 
-<details>
-<summary><b>Also exploring</b> — deep learning and deployment</summary>
+### Languages & development
 
-<br />
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+![Python, PostgreSQL, FastAPI, Git and GitHub](https://skillicons.dev/icons?i=python,postgres,fastapi,git,github&theme=dark&perline=5)
 
-</details>
+**Python · SQL · FastAPI · Git · GitHub**
 
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0%3A0d1117%2C35%3A22d3ee%2C70%3A8b5cf6%2C100%3A0d1117" width="100%" alt="Cyan and violet section divider" />
-<br />
+### Machine learning & data
 
-<a id="featured-projects"></a>
-03   /   Featured AI projects
-Business automation · Agriculture · Document intelligence · Research
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=106&color=0%3A111827%2C100%3A1e293b&text=Agentic%20AI%20Automation&fontSize=24&fontColor=22D3EE&fontAlignY=38&desc=BUSINESS%20WORKFLOWS&descSize=10&descAlignY=70&animation=fadeIn" width="100%" alt="Agentic AI Automation" />
-      <p><b>Problem:</b> Repetitive business tasks can slow teams down.</p>
-      <p><b>Approach:</b> AI agents use tools and LLM reasoning to support workflow automation.</p>
-      <p><sub><b>Python · CrewAI · FastAPI · LLMs</b></sub></p>
-      <!-- Replace the next href with https://github.com/raghu4350/YOUR_AGENTIC_REPO_NAME when the exact repository name is known. -->
-      <p><a href="https://github.com/raghu4350?tab=repositories"><b>Explore my repositories →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=106&color=0%3A111827%2C100%3A1e293b&text=KrishiMitra&fontSize=24&fontColor=6EE7B7&fontAlignY=38&desc=AI%20FOR%20AGRICULTURE&descSize=10&descAlignY=70&animation=fadeIn" width="100%" alt="KrishiMitra" />
-      <p><b>Problem:</b> Farmers need accessible guidance and useful recommendations.</p>
-      <p><b>Approach:</b> An agriculture assistant that applies AI to farming questions and recommendations.</p>
-      <p><sub><b>Python · Machine Learning · Generative AI</b></sub></p>
-      <!-- Replace the next href with https://github.com/raghu4350/YOUR_KRISHIMITRA_REPO_NAME when the exact repository name is known. -->
-      <p><a href="https://github.com/raghu4350?tab=repositories"><b>Explore my repositories →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=106&color=0%3A111827%2C100%3A1e293b&text=AI%20PDF%20Chatbot&fontSize=24&fontColor=C4B5FD&fontAlignY=38&desc=DOCUMENT%20INTELLIGENCE&descSize=10&descAlignY=70&animation=fadeIn" width="100%" alt="AI PDF Chatbot" />
-      <p><b>Problem:</b> Finding answers inside lengthy PDFs takes time.</p>
-      <p><b>Approach:</b> Retrieves relevant document chunks and uses an LLM to answer questions.</p>
-      <p><sub><b>LangChain · RAG · Embeddings · ChromaDB</b></sub></p>
-      <!-- Replace the next href with https://github.com/raghu4350/YOUR_PDF_CHATBOT_REPO_NAME when the exact repository name is known. -->
-      <p><a href="https://github.com/raghu4350?tab=repositories"><b>Explore my repositories →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=106&color=0%3A111827%2C100%3A1e293b&text=AI%20Research%20Agent&fontSize=24&fontColor=67E8F9&fontAlignY=38&desc=SEARCH%20%2B%20SOURCE%20ANALYSIS&descSize=10&descAlignY=70&animation=fadeIn" width="100%" alt="AI Research Agent" />
-      <p><b>Problem:</b> Manual research and report writing involve many repetitive steps.</p>
-      <p><b>Approach:</b> Searches, reads sources, writes a report and reviews the generated output.</p>
-      <p><sub><b>Python · LangChain · AI Agents · Web Search</b></sub></p>
-      <!-- Replace the next href with https://github.com/raghu4350/YOUR_RESEARCH_AGENT_REPO_NAME when the exact repository name is known. -->
-      <p><a href="https://github.com/raghu4350?tab=repositories"><b>Explore my repositories →</b></a></p>
-    </td>
-  </tr>
-</table>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<a id="currently-exploring"></a>
-04   /   Currently exploring
-<div align="center">
+### Generative AI & intelligent systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=19&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&repeat=true&width=780&height=50&lines=AI%20agents%20that%20reason%20and%20use%20tools%3BRAG%20pipelines%20with%20relevant%20document%20retrieval%3BLLM%20applications%20connected%20through%20APIs" width="90%" alt="Animated learning focus: AI agents, RAG pipelines and LLM applications" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0284C7?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-D65A47?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge)
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=for-the-badge" alt="RAG Pipelines" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0E7490?style=for-the-badge" alt="Prompt Engineering" />
-</p>
+**LLMs · Prompt engineering · Embeddings · Retrieval · Tool use**
 
-<p>Tool use · Embeddings · Retrieval · LangChain · CrewAI · API integration</p>
+### Also exploring
 
-</div>
+![TensorFlow, Docker and Kubernetes](https://skillicons.dev/icons?i=tensorflow,docker,kubernetes&theme=dark&perline=3)
 
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0%3A0d1117%2C35%3A22d3ee%2C70%3A8b5cf6%2C100%3A0d1117" width="100%" alt="Cyan and violet section divider" />
-<br />
+**Deep learning · Containerization · Deployment**
 
-<a id="github-activity"></a>
-05   /   GitHub activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghu4350&bg_color=0d1117&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="raghu4350 GitHub contribution activity" />
-</p>
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<details>
-<summary><b>View my GitHub statistics, languages and streak</b></summary>
+## 🚀 Things I'm building
 
-<br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghu4350&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=9daec7&icon_color=a78bfa&hide_rank=true" width="54%" alt="Public GitHub statistics for raghu4350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghu4350&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=9daec7" width="41%" alt="Languages used in public repositories" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raghu4350&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=9DAEC7&dates=7D8CA6&currStreakNum=EDF5FF&sideNums=EDF5FF" width="75%" alt="GitHub contribution streak for raghu4350" />
-</p>
+### AI that solves practical problems
 
-</details>
+| 🤖 **Agentic AI Automation** | 🌾 **KrishiMitra** |
+| :--- | :--- |
+| Support repetitive business workflows with AI agents, tools and LLM reasoning. | Help farmers through an agriculture assistant and intelligent recommendations. |
+| **Python · CrewAI · FastAPI · LLMs** | **Python · Machine Learning · Generative AI** |
 
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0%3A0d1117%2C35%3A22d3ee%2C70%3A8b5cf6%2C100%3A0d1117" width="100%" alt="Cyan and violet section divider" />
-<br />
+| 📄 **AI PDF Chatbot** | 🔎 **AI Research Agent** |
+| :--- | :--- |
+| Retrieve relevant PDF content and generate answers using RAG. | Search the web, read sources, write reports and review the output. |
+| **LangChain · RAG · ChromaDB · Embeddings** | **Python · LangChain · AI Agents · Web Search** |
 
-<a id="connect"></a>
-06   /   Let's connect
-<div align="center">
+[![Browse my repositories](https://img.shields.io/badge/BROWSE_MY_REPOSITORIES_%E2%86%92-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghu4350?tab=repositories)
 
-<p>Interested in <b>AI/ML, Generative AI and AI engineering opportunities.</b><br />Let's talk about useful ideas and practical AI projects.</p>
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<p>
-  <a href="mailto:raghuveer4350@gmail.com"><img src="https://img.shields.io/badge/Email%20Raghuveer-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raghuveer" /></a>
-  <a href="https://github.com/raghu4350"><img src="https://img.shields.io/badge/GitHub%20%C2%B7%20raghu4350-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub · raghu4350" /></a>
-</p>
+## 🧠 Currently exploring
 
-<!-- Add your real LinkedIn URL and remove the comment markers around this block when ready.
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
--->
+![Animated focus: AI agents, RAG and LLM applications](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&pause=1200&duration=2600&color=A78BFA&center=true&vCenter=true&width=1000&height=65&repeat=true&lines=AI%20agents%20that%20reason%20and%20use%20tools%3BRAG%20that%20connects%20questions%20to%20useful%20context%3BLLM%20applications%20connected%20through%20APIs)
 
+| **AI agents** | **Document intelligence** | **AI applications** |
+| :--- | :--- | :--- |
+| Reasoning, tools and workflows | Chunking, embeddings and retrieval | Prompting, APIs and backend integration |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=17&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Learn%20deeply.%20Build%20thoughtfully.%20Keep%20improving." width="85%" alt="Animated footer: learn deeply, build thoughtfully, keep improving" />
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0%3A7c3aed%2C55%3A0891b2%2C100%3A0d1117" width="100%" alt="Cyan and violet footer wave" />
+## 📊 My GitHub activity
 
-</div>
+![GitHub stats for raghu4350](https://github-readme-stats.vercel.app/api?username=raghu4350&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&hide_rank=true)
+![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu4350&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1)
+
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=raghu4350&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC)
+
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=raghu4350&bg_color=0d1117&color=38bdf8&line=a78bfa&point=ffffff&area=true&hide_border=true)
+
+## 🐍 Snake animation preview
+
+![Snake animation demo from Platane/snk — this is not my contribution history](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+*Animation demo from [Platane/snk](https://github.com/Platane/snk). Personal contribution history is shown in the activity section above.*
+
+![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## 🤝 Let's connect
+
+**Interested in AI/ML, Generative AI and AI engineering opportunities.**
+
+[![Email](https://img.shields.io/badge/EMAIL_RAGHUVEER-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghuveer4350@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB_%40raghu4350-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghu4350)
+
+![Animated closing message](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=20&pause=1200&duration=2600&color=38BDF8&center=true&vCenter=true&width=1000&height=65&repeat=true&lines=Turning%20curiosity%20into%20code.%20Turning%20code%20into%20useful%20AI.%3BLearn%20deeply.%20Build%20thoughtfully.%20Keep%20improving.)
+
+![Cyan and violet footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0%3A7C3AED%2C50%3A0284C7%2C100%3A0B1120)
+
+[profile-notes]: # "Markdown only. No HTML tags or local assets. Add exact project links and LinkedIn when provided. Stats and animations use external image services."
+[snake-personalization]: https://github.com/Platane/snk "To show raghu4350 contributions instead of the labeled demo, generate a personal snake with a GitHub Actions workflow and replace the demo image URL with https://raw.githubusercontent.com/raghu4350/raghu4350/output/github-snake-dark.svg."
+[animation-credit]: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub "Coding GIF and animated divider sourced from this collection."
