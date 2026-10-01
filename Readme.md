@@ -24,33 +24,37 @@ I enjoy connecting **Python, data, LLMs and tools** to build practical applicati
 
 ## ⚡ My tech stack
 
-### Languages & development
+**Building with code, data, models and AI tools.**
 
-![Python, PostgreSQL, FastAPI, Git and GitHub](https://skillicons.dev/icons?i=python,postgres,fastapi,git,github&theme=dark&perline=5)
+Frameworks, platforms and model families I’m familiar with or exploring through projects.
 
-**Python · SQL · FastAPI · Git · GitHub**
+![Animated toolkit: deep learning, GenAI, deployment and AI tools](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&pause=1200&duration=2400&color=38BDF8&center=true&vCenter=true&width=1000&height=60&repeat=true&lines=Python.%20TensorFlow.%20Keras.%20PyTorch.%3BGenAI.%20RAG.%20LangChain.%20AI%20Agents.%3BRailway.%20Vercel.%20Amazon%20Bedrock.%3BAI%20tools%20that%20help%20turn%20ideas%20into%20applications.)
 
-### Machine learning & data
+| **💻 Code & backend** | **📊 Machine learning & data** |
+| :--- | :--- |
+| ![Python, PostgreSQL, FastAPI, Git and GitHub](https://skillicons.dev/icons?i=python,postgres,fastapi,git,github&theme=dark&perline=5) | [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) |
+| **Python · SQL · FastAPI · Git · GitHub** | Data processing, analysis and ML models. |
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+| **🧠 Deep learning** | **✨ Generative AI & agents** |
+| :--- | :--- |
+| [![TensorFlow](https://img.shields.io/badge/TensorFlow-E55B00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/) [![PyTorch](https://img.shields.io/badge/PyTorch-E64C3C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) | ![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-0369A1?style=for-the-badge) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/) [![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge)](https://www.crewai.com/) [![ChromaDB](https://img.shields.io/badge/ChromaDB-BE493C?style=for-the-badge)](https://www.trychroma.com/) ![AI Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge) |
+| Neural networks and deep learning frameworks. | LLMs, prompt engineering, embeddings, retrieval and tool use. |
 
-### Generative AI & intelligent systems
+| **☁️ Deployment & containers** | **🛠️ AI coding & app builders** |
+| :--- | :--- |
+| [![Railway](https://img.shields.io/badge/Railway-131C31?style=for-the-badge)](https://railway.com/) [![Vercel](https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Docker](https://img.shields.io/badge/Docker-187FC4?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) | [![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-2563EB?style=for-the-badge)](https://antigravity.google/) [![Cursor](https://img.shields.io/badge/Cursor-172033?style=for-the-badge)](https://cursor.com/) [![Emergent](https://img.shields.io/badge/Emergent-6D28D9?style=for-the-badge)](https://emergent.sh/) |
+| Hosting applications and exploring deployment. | AI-assisted coding, prototyping and app building. |
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0284C7?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-D65A47?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge)
+| **🤖 AI assistants** | **🔌 Model access & platforms** |
+| :--- | :--- |
+| [![Claude](https://img.shields.io/badge/Claude-A65435?style=for-the-badge)](https://claude.ai/) [![ChatGPT](https://img.shields.io/badge/ChatGPT-087F6B?style=for-the-badge)](https://chatgpt.com/) [![Gemini](https://img.shields.io/badge/Gemini-315BC7?style=for-the-badge)](https://gemini.google.com/) [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-C95518?style=for-the-badge)](https://mistral.ai/) | [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge)](https://aws.amazon.com/bedrock/) [![Groq](https://img.shields.io/badge/Groq-D44424?style=for-the-badge)](https://groq.com/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-946B00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/) |
+| Research, explanations, ideation and coding assistance. | Exploring hosted models, inference APIs and model ecosystems. |
 
-**LLMs · Prompt engineering · Embeddings · Retrieval · Tool use**
+### 🧩 Model families
 
-### Also exploring
+[![Amazon Nova](https://img.shields.io/badge/Amazon%20Nova-174C80?style=for-the-badge)](https://aws.amazon.com/nova/) [![Qwen](https://img.shields.io/badge/Qwen-6D28D9?style=for-the-badge)](https://qwen.ai/) [![MiniMax](https://img.shields.io/badge/MiniMax-172033?style=for-the-badge)](https://www.minimax.io/)
 
-![TensorFlow, Docker and Kubernetes](https://skillicons.dev/icons?i=tensorflow,docker,kubernetes&theme=dark&perline=3)
-
-**Deep learning · Containerization · Deployment**
+**Amazon Nova · Qwen · MiniMax**
 
 ![Animated neon divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
